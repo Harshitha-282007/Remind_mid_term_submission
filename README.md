@@ -1,8 +1,5 @@
 # ReMind: An Agentic AI Tutor for Memory Retention
 
-# ReMind 🧠
-
-*A Streamlit-based AI chatbot with memory, counters, and quiz reinforcement*
 
 ## 📌 Project Description
 
