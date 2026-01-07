@@ -1,1 +1,1 @@
-# Remind_mid_term_submission
+# ReMind: An Agentic AI Tutor for Memory Retention
